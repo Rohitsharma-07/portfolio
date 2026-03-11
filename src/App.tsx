@@ -254,8 +254,8 @@ export default function App() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden shadow-2xl relative z-10 border-8 border-white">
               <img 
-                src="https://picsum.photos/seed/educator/800/800" 
-                alt="Rohit Sharma" 
+                src="https://picsum.photos/seed/classroom-students/800/800" 
+                alt="Classroom full of students" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
               />
