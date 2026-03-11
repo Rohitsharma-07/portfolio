@@ -220,7 +220,7 @@ export default function App() {
               Aspiring Educator
             </motion.span>
             <h1 className="text-6xl md:text-8xl font-serif font-bold text-slate-900 leading-tight mb-6">
-              Rohit <br />
+              Mr. Rohit <br />
               <span className="text-primary italic">Sharma</span>
             </h1>
             <p className="text-lg text-slate-600 mb-10 max-w-lg leading-relaxed">
